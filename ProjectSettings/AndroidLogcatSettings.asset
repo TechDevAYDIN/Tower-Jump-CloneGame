@@ -1,0 +1,233 @@
+{
+    "m_SelectedDeviceId": "5200de5ffad7947b",
+    "m_SelectedPackage": {
+        "deviceId": "5200de5ffad7947b",
+        "name": "com.TechDevAydin.SkyDrop",
+        "processId": 10583,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.DefaultCompany.GetLow",
+            "processId": 21366,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.sec.android.app.launcher",
+            "processId": 4287,
+            "exited": false
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.DefaultCompany.GetLow",
+            "processId": 14788,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.DefaultCompany.GetLow",
+            "processId": 16067,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.DefaultCompany.GetLow",
+            "processId": 20010,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.DefaultCompany.GetLow",
+            "processId": 22424,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.DefaultCompany.GetLow",
+            "processId": 30456,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.DefaultCompany.GetLow",
+            "processId": 8386,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.DefaultCompany.GetLow",
+            "processId": 9876,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.DefaultCompany.GetLow",
+            "processId": 15025,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.DefaultCompany.GetLow",
+            "processId": 17427,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.DefaultCompany.GetLow",
+            "processId": 22344,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.DefaultCompany.GetLow",
+            "processId": 23759,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.DefaultCompany.GetLow",
+            "processId": 8796,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.DefaultCompany.GetLow",
+            "processId": 11005,
+            "exited": false
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.DefaultCompany.GetLow",
+            "processId": 11793,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.DefaultCompany.GetLow",
+            "processId": 1699,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.TechDevAydin.SkyDrop",
+            "processId": 1787,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.TechDevAydin.SkyDrop",
+            "processId": 3927,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.TechDevAydin.SkyDrop",
+            "processId": 8567,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.TechDevAydin.SkyDrop",
+            "processId": 10612,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.TechDevAydin.SkyDrop",
+            "processId": 11616,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.TechDevAydin.SkyDrop",
+            "processId": 18548,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.TechDevAydin.SkyDrop",
+            "processId": 25346,
+            "exited": false
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.TechDevAydin.SkyDrop",
+            "processId": 29807,
+            "exited": true
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.TechDevAydin.SkyDrop",
+            "processId": 466,
+            "exited": false
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.TechDevAydin.SkyDrop",
+            "processId": 5703,
+            "exited": false
+        },
+        {
+            "deviceId": "5200de5ffad7947b",
+            "name": "com.TechDevAydin.SkyDrop",
+            "processId": 10583,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

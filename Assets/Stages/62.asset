@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79cb268e56f288145835daf7dca2b835, type: 3}
+  m_Name: 62
+  m_EditorClassIdentifier: 
+  goalMesafe: 0
+  stageBackgroundMaterial: {r: 0.11764706, g: 0.25490198, b: 0.33333334, a: 1}
+  stageBackgroundColor: {r: 1, g: 0.8235294, b: 0.8253509, a: 1}
+  stageLevelPartColor: {r: 0.5471698, g: 0.1522784, b: 0.1522784, a: 1}
+  stageBallColor: {r: 0.7718939, g: 0.9022789, b: 0.9245283, a: 1}
+  deadPartColor: {r: 0.5176471, g: 0.49019608, b: 0.5176471, a: 1}
+  levels:
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
+  - minValue: 1
+    maxValue: 1
